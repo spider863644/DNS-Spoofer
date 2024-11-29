@@ -37,7 +37,7 @@ Educational Use Only: This tool is designed for ethical hacking and security tes
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/DNS-Spoofer.git
+git clone https://github.com/spider863644/DNS-Spoofer.git
 cd DNS-Spoofer
 ```
 
